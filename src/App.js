@@ -1,14 +1,12 @@
 
 import './App.css';
+import MadGenius from './MadGenius.js';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Broohaus!
-        </p>
-      </header>
+      <MadGenius/>
     </div>
   );
 }
